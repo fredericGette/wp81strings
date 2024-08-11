@@ -21,7 +21,7 @@ The suffix `w` marks a [wide-character](https://learn.microsoft.com/en-us/window
 - [Install a telnet server on the phone](https://github.com/fredericGette/wp81documentation/tree/main/telnetOverUsb#readme), in order to run the application.  
 - Manually copy the executable from the root of this GitHub repository to the shared folder of the phone.
 > [!NOTE]
-> When you connect your phone with a USB cable, this _shared folder_ is visible in the Explorer of your computer. And in the phone, this folder is mounted in `C:\Data\USERS\Public\Documents`  
+> When you connect your phone with a USB cable, this folder is visible in the Explorer of your computer. And in the phone, this folder is mounted in `C:\Data\USERS\Public\Documents`  
 
 ### Compilation
 
