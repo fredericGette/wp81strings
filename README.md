@@ -19,7 +19,9 @@ The suffix `w` marks a [wide-character](https://learn.microsoft.com/en-us/window
 ### Deployment
 
 - [Install a telnet server on the phone](https://github.com/fredericGette/wp81documentation/telnetOverUsb/README.md), in order to run the application.  
-- Manually copy the executable in the shared folder of the phone. This folder is mounted in `C:\Data\USERS\Public\Documents`.  
+- Manually copy the executable from the root of this GitHub repository to the shared folder of the phone.
+> [!NOTE]
+> When you connect your phone with a USB cable, this _shared folder_ is visible in the Explorer of your computer. And in the phone, this folder is mounted in `C:\Data\USERS\Public\Documents`  
 
 ### Compilation
 
